@@ -1,2 +1,2 @@
-# C-plus-plus.
+# C-plus-plus
 This contains the program of C++
